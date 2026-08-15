@@ -1,20 +1,20 @@
 # Tata Virtual Internship – Forage Job Simulation 
 
-🎥 _[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7491422702428119041/)_  
+ _[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7494277874322153472/)_  
 
  _[Power BI Visuals PDF](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/visuals.pdf)_  
 
- _[Recording](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/Tata_virtual_internship_recording.mp4)_  
+ [Recording](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/Tata_virtual_internship_recording.mp4)🎥  
 
  _[Certificate](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/Tata%20Virtual%20Internship%20Certificate.pdf)_  
+
+ 
 **📌  Project Overview:**
 As part of the Tata Virtual Internship, I analyzed a Retail Dataset of 5,41,909 rows.
 I worked on:
 
 🔹**Task 1** – Framing Business Questions
 Analysing Retail data from the perspective of business leaders and developed eight key questions to understand what business leaders would want to know from the data.
-
-**Business Questions❓** 
 
 **CEO questions**
 1.	What are the monthly revenue trends, and which months show the strongest and weakest performance?
@@ -38,13 +38,14 @@ Selected appropriate visualizations for different business scenarios and created
 Analysed the visualizations, identified key insights, and explained through recording, how the findings related to the business scenario.
 
 **🎯Skills strengthened through this simulation:**
-📊 Dashboard Development
-📈 Data Analysis & Data Analytics
-🧹 Data Cleaning
-🔍 Data Interpretation
-🎯 Data Visualization
-📋 Data Presentation
-💬 Effective Communication 
+- [x]	📊 Dashboard Development
+- [x] 📈 Data Analysis & Data Analytics
+- [x] 🧹 Data Cleaning
+- [x] 🔍 Data Interpretation
+- [x] 🎯 Data Visualization
+- [x] 📋 Data Presentation
+- [x] 💬 Effective Communication 
+
 
 This simulation was a valuable opportunity to apply my skills in a practical business context, think from a business leader's perspective, and gain more confidence in communicating data-driven insights.
 
