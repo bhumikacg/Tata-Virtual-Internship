@@ -1,6 +1,6 @@
 # Tata Virtual Internship – Forage Job Simulation 
 
- _[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7494277874322153472/)_  
+ _[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7494277874322153472/)_ 
 
  _[Power BI Visuals PDF](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/visuals.pdf)_  
 
