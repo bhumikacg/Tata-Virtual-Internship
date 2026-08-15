@@ -2,11 +2,11 @@
 
 🎥 _[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7491422702428119041/)_  
 
- _[Power BI Visuals PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Dashboard%20%26%20Data%20Model.pdf)_  
+ _[Power BI Visuals PDF](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/visuals.pdf)_  
 
- _[Recording](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Wavecon%20telecom%20Analysis%20slides.pdf)_  
+ _[Recording](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/Tata_virtual_internship_recording.mp4)_  
 
- _[Certificate](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Wavecon%20telecom%20Analysis%20slides.pdf)_  
+ _[Certificate](https://github.com/bhumikacg/Tata-Virtual-Internship/blob/main/Tata%20Virtual%20Internship%20Certificate.pdf)_  
 **📌  Project Overview:**
 As part of the Tata Virtual Internship, I analyzed a Retail Dataset of 5,41,909 rows.
 I worked on:
